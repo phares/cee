@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>ShapeBootstrap Clean Template</title>
+    <title>Quantum marketing </title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -37,6 +37,40 @@
     <script src="js/bootstrap.min.js"></script>
 
 
+      <script
+src="http://maps.googleapis.com/maps/api/js">
+</script>
+
+
+<script>
+var myCenter=new google.maps.LatLng(-1.2997085,36.8202496);
+
+function initialize()
+{
+var mapProp = {
+  center:myCenter,
+  zoom:16,
+  mapTypeId:google.maps.MapTypeId.ROADMAP
+  };
+
+var map=new google.maps.Map(document.getElementById("map-canvas"),mapProp);
+
+var marker=new google.maps.Marker({
+  position:myCenter,
+  });
+
+marker.setMap(map);
+
+var infowindow = new google.maps.InfoWindow({
+  content:"Quantam marketing"
+  });
+
+infowindow.open(map,marker);
+}
+
+google.maps.event.addDomListener(window, 'load', initialize);
+</script>
+
   </head>
 
   <!--HEADER ROW-->
@@ -44,7 +78,7 @@
     <div class="container">
       <div class="row">
               <!--LOGO-->
-              <div class="span3"><a class="brand" href="#"><img src="img/logo.png"/></a></div>
+              <div class="span3"><a class="brand" href="/"><img src="img/logo.png"/></a></div>
               <!-- /LOGO -->
 
             <!-- MAIN NAVIGATION -->
@@ -67,7 +101,7 @@
                         </li>
 
                         <li><a href="/services">Services</a></li>
-                        <li><a href="/blog">Blog</a></li>
+                        <!--<li><a href="/blog">Blog</a></li>-->
                         <li><a href="/contact">Contact</a></li>
 
                     </ul>
@@ -86,22 +120,23 @@
     {% block content %}
 
     {% endblock %}
+
 <!--Footer
 ==========================-->
 
 <footer>
     <div class="container">
       <div class="row">
-        <div class="span6">Copyright &copy 2013 Shapebootstrap | All Rights Reserved  <br>
-        <small>Aliquam tincidunt mauris eu risus.</small>
+        <div class="span6">Copyright &copy 2016 Quantam | All Rights Reserved  <br>
+        <small>Quantam Marketing</small>
         </div>
         <div class="span6">
             <div class="social pull-right">
-                <a href="#"><img src="img/social/googleplus.png" alt=""></a>
-                <a href="#"><img src="img/social/dribbble.png" alt=""></a>
-                <a href="#"><img src="img/social/twitter.png" alt=""></a>
-                <a href="#"><img src="img/social/dribbble.png" alt=""></a>
-                <a href="#"><img src="img/social/rss.png" alt=""></a>
+                <a href="#"><img src="img/social/facebook-icon.png" alt=""></a>
+
+                <a href="#"><img src="img/social/google-plus-icon.png" alt=""></a>
+
+                <a href="#"><img src="img/social/twitter-icon.png" alt=""></a>
             </div>
         </div>
       </div>
@@ -109,6 +144,8 @@
 </footer>
 
 <!--/.Footer-->
+
+
 
   </body>
 </html>

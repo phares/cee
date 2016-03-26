@@ -2,118 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7714fd1c-5615-44b8-8475-702bccfc7f0b" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\__MACOSX\._about.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\__MACOSX\._blog-details.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\__MACOSX\._blog.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\__MACOSX\._contact.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\__MACOSX\._css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\__MACOSX\._font" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\__MACOSX\._img" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\__MACOSX\._index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\__MACOSX\._js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\__MACOSX\._service.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\__MACOSX\css\._.DS_Store" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\__MACOSX\css\._bootstrap-responsive.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\__MACOSX\css\._bootstrap-responsive.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\__MACOSX\css\._bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\__MACOSX\css\._bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\__MACOSX\font\._FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\__MACOSX\font\._fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\__MACOSX\font\._fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\__MACOSX\font\._fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\__MACOSX\font\._fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\__MACOSX\img\._.DS_Store" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\__MACOSX\img\._glyphicons-halflings-white.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\__MACOSX\img\._glyphicons-halflings.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\__MACOSX\img\._icon-service1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\__MACOSX\img\._icon-service2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\__MACOSX\img\._icon-service3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\__MACOSX\img\._icon-service4.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\__MACOSX\img\._icon-service5.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\__MACOSX\img\._icon-service6.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\__MACOSX\img\._icon1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\__MACOSX\img\._icon2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\__MACOSX\img\._icon3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\__MACOSX\img\._icon4.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\__MACOSX\img\._img-60x60.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\__MACOSX\img\._img1-870x400.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\__MACOSX\img\._img1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\__MACOSX\img\._img2-870x400.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\__MACOSX\img\._img2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\__MACOSX\img\._logo.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\__MACOSX\img\._responsive.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\__MACOSX\img\._slide-bg.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\__MACOSX\img\._team1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\__MACOSX\img\._team2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\__MACOSX\img\._team3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\__MACOSX\img\._virus.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\__MACOSX\img\slide\._slide1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\__MACOSX\img\slide\._slide2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\__MACOSX\img\slide\._slide3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\__MACOSX\img\slide\._slide4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\__MACOSX\img\slide\._slide5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\__MACOSX\img\social\._.DS_Store" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\__MACOSX\img\social\._dribbble.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\__MACOSX\img\social\._googleplus.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\__MACOSX\img\social\._rss.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\__MACOSX\img\social\._twitter.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\__MACOSX\js\._.DS_Store" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\__MACOSX\js\._bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\__MACOSX\js\._html5shiv.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\__MACOSX\js\._jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\about.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\blog-details.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\blog.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\contact.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\css\bootstrap-responsive.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\css\bootstrap-responsive.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\css\bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\css\bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\css\style.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\font\FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\font\fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\font\fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\font\fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\font\fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\img\glyphicons-halflings-white.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\img\glyphicons-halflings.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\img\icon-service1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\img\icon-service2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\img\icon-service3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\img\icon-service4.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\img\icon-service5.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\img\icon-service6.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\img\icon1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\img\icon2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\img\icon3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\img\icon4.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\img\img-60x60.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\img\img1-870x400.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\img\img1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\img\img2-870x400.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\img\img2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\img\logo.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\img\responsive.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\img\slide-bg.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\img\slide\slide1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\img\slide\slide2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\img\slide\slide3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\img\slide\slide4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\img\slide\slide5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\img\social\dribbble.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\img\social\googleplus.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\img\social\rss.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\img\social\twitter.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\img\team1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\img\team2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\img\team3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\img\virus.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\js\bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\js\html5shiv.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\js\jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\service.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\static\img\img2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\static\img\social\dribbble.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\static\img\social\googleplus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\static\img\social\rss.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\ISP-PC\Documents\GitHub\cee\static\img\social\twitter.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/icon-service1.png" afterPath="$PROJECT_DIR$/static/img/icon-service1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/icon-service2.png" afterPath="$PROJECT_DIR$/static/img/icon-service2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/icon-service3.png" afterPath="$PROJECT_DIR$/static/img/icon-service3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/icon-service4.png" afterPath="$PROJECT_DIR$/static/img/icon-service4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/icon-service5.png" afterPath="$PROJECT_DIR$/static/img/icon-service5.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/icon-service6.png" afterPath="$PROJECT_DIR$/static/img/icon-service6.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/icon1.png" afterPath="$PROJECT_DIR$/static/img/icon1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/icon2.png" afterPath="$PROJECT_DIR$/static/img/icon2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/icon3.png" afterPath="$PROJECT_DIR$/static/img/icon3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/logo.png" afterPath="$PROJECT_DIR$/static/img/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/slide/slide1.jpg" afterPath="$PROJECT_DIR$/static/img/slide/slide1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/team1.jpg" afterPath="$PROJECT_DIR$/static/img/team1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/team2.jpg" afterPath="$PROJECT_DIR$/static/img/team2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/team3.jpg" afterPath="$PROJECT_DIR$/static/img/team3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/about.html" afterPath="$PROJECT_DIR$/templates/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.yaml" afterPath="$PROJECT_DIR$/app.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/base.html" afterPath="$PROJECT_DIR$/templates/base.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/contact.html" afterPath="$PROJECT_DIR$/templates/contact.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/index.html" afterPath="$PROJECT_DIR$/templates/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.py" afterPath="$PROJECT_DIR$/main.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/service.html" afterPath="$PROJECT_DIR$/templates/service.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/style.css" afterPath="$PROJECT_DIR$/static/css/style.css" />
     </list>
     <ignored path="cee.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -132,8 +47,133 @@
   <component name="FavoritesManager">
     <favorites_list name="cee" />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.3347826">
+              <caret line="132" column="27" selection-start-line="132" selection-start-column="27" selection-end-line="132" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blog-details.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/blog-details.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="103" column="23" selection-start-line="103" selection-start-column="23" selection-end-line="103" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blog.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/blog.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-108.53846">
+              <caret line="166" column="0" selection-start-line="166" selection-start-column="0" selection-end-line="166" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/contact.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.773585">
+              <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="service.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/service.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.4905663">
+              <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+              <folding>
+                <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#2;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#3;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#4;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#5;n#div#1;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.4150944">
+              <caret line="86" column="43" selection-start-line="86" selection-start-column="43" selection-end-line="86" selection-end-column="43" />
+              <folding>
+                <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#0;n#div#0;n#div#3;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#strong#0;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#3;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#strong#0;n#div#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#3;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#strong#0;n#div#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#3;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.846154">
+              <caret line="136" column="36" selection-start-line="136" selection-start-column="36" selection-end-line="136" selection-end-column="36" />
+              <folding>
+                <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h1#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#0;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#2;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#0;n#div#2;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#3;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#0;n#div#3;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h1#0;n#div#1;n#div#3;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/static/css/style.css" />
+        <option value="$PROJECT_DIR$/app.yaml" />
+        <option value="$PROJECT_DIR$/templates/contact.html" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
+        <option value="$PROJECT_DIR$/templates/about.html" />
+        <option value="$PROJECT_DIR$/templates/service.html" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/templates/base.html" />
+      </list>
+    </option>
   </component>
   <component name="NamedScopeManager">
     <order />
@@ -141,7 +181,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1604" />
+    <option name="width" value="1616" />
     <option name="height" value="876" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -213,6 +253,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cee" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cee" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -220,9 +278,136 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ispwebsite_2" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="cee" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="cee" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="cee" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="cee" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="cee" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="cee" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="7714fd1c-5615-44b8-8475-702bccfc7f0b" name="Default" comment="" />
@@ -233,10 +418,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1604" height="876" extended-state="0" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24968071" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.247782" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -256,11 +441,128 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="187" column="1" selection-start-line="187" selection-start-column="1" selection-end-line="187" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="21" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.773585">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.846154">
+          <caret line="136" column="36" selection-start-line="136" selection-start-column="36" selection-end-line="136" selection-end-column="36" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#2;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#2;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#3;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#3;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#1;n#div#3;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.4150944">
+          <caret line="86" column="43" selection-start-line="86" selection-start-column="43" selection-end-line="86" selection-end-column="43" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#3;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#strong#0;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#3;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#strong#0;n#div#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#3;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#strong#0;n#div#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#3;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/service.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.4905663">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#2;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#3;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#4;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#5;n#div#1;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/blog-details.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="103" column="23" selection-start-line="103" selection-start-column="23" selection-end-line="103" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-108.53846">
+          <caret line="166" column="0" selection-start-line="166" selection-start-column="0" selection-end-line="166" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3347826">
+          <caret line="132" column="27" selection-start-line="132" selection-start-column="27" selection-end-line="132" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

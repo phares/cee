@@ -62,6 +62,19 @@ class BlogHandler(webapp2.RequestHandler):
         template = jinja2_env.get_template('templates/blog.html')
         self.response.out.write(template.render(template_values))
 
+
+class BlogDetailsHandler(webapp2.RequestHandler):
+    def get(self):
+        template_values = {
+
+        }
+        notification = self.request.get('notification')
+        if notification:
+            template_values['notification'] = notification
+        self.response.set_status(200)
+        template = jinja2_env.get_template('templates/blog-details.html')
+        self.response.out.write(template.render(template_values))
+
 class ContactHandler(webapp2.RequestHandler):
     def get(self):
         template_values = {
@@ -93,4 +106,5 @@ app = webapp2.WSGIApplication([
     ('/services', ServicesHandler),
     ('/about', AboutHandler),
     ('/blog', BlogHandler),
+    ('/blog-details', BlogDetailsHandler)
 ], debug=True)
